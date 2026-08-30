@@ -2,7 +2,7 @@
 
 `app-builder-flow` 是一个用于 App 产品开发流程的 Codex Skill。它帮助把一个 App 想法或现有 App 项目推进到可执行、可测试、可发布的方案。
 
-它不是某一个具体 App 的模板，也不是提词器 App 本体。它适用于 iOS、Android、Web/PWA、SaaS、内部工具等 App 产品规划和开发推进场景。
+它不是某一个具体 App 的模板，也不是 App 本体。它适用于 iOS、Android、Web/PWA、SaaS、内部工具等 App 产品规划和开发推进场景。
 
 ## 项目解决什么问题
 
