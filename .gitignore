@@ -1,0 +1,33 @@
+# Xcode build output
+DerivedData/
+build/
+.build/
+
+# User and machine-local state
+.DS_Store
+*.xcuserstate
+xcuserdata/
+.swiftpm/
+
+# Local environment and logs
+.env
+.env.*
+*.log
+*.tmp
+*.bak
+*.orig
+*~
+
+# This repository is for the app-builder-flow skill, not the teleprompter app body.
+TeleprompterApp/
+TeleprompterApp.xcodeproj/
+TeleprompterAppTests/
+TeleprompterAppUITests/
+docs/
+
+# Local design exports and visual drafts
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.html
