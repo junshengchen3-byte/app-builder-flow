@@ -1,0 +1,3 @@
+display_name: App Builder Flow
+short_description: Turn an app idea into an MVP and release plan
+default_prompt: 使用 app-builder-flow 帮我把一个 App 想法或现有 App 推进成产品计划、UI 方向、实现方案、测试验收和发布路径。先确认关键决策，遇到卡点要说明原因和处理方式。
